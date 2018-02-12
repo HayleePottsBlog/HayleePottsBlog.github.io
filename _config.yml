@@ -1,0 +1,36 @@
+title: Haylee K. Potts
+description: > # this means to ignore newlines until "baseurl:"
+  Personal blog of Haylee K. Potts
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Haylee K. Potts # add your name
+author-img: haylee.png # add your photo
+about-author: Haylee works for a tech startup based near London. When she's not creating cocktail-themed jam recipes, she can be found ticking countries off of her bucket list. # add description
+social-twitter: # add your Twitter handle
+social-facebook: haylee.k.potts # add your Facebook handle
+social-instagram: hayleekpotts # add your Instagram handle
+social-github: jammasterhay # add your Github handle
+social-linkedin: haylee-potts-70bb5283 # add your Linkedin handle
+social-email: 	hayleekatariinapotts@gmail.com # add your Email address
+
+# Disqus
+discus-identifier: hayleekpotts # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
