@@ -4,7 +4,7 @@ title: Don’t skimp on support as your startup grows
 date: 2018-02-12 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: scale-startup-article.jpg # Add image post (optional)
-tags: [Customers, Connections] # add tag
+tags: [customer connections, customer service] # add tag
 ---
 
 There’s a clunky charm in the [early days of a startup](https://www.zendesk.com/blog/customer-service-startup/); a team of three juggling ten roles, and the CEO and intern flipping coins for who is next on the coffee run. There’s one agent, a Skype number, and an Outlook email as the full extent of your support artillery. I well remember this point in our company—however romantic as the all-hands-on-deck comradery of the [early stage startup](https://relate.zendesk.com/education/start-starting/) is, to make it past the crucial one-year turning point, there are some vital decisions that must be made.

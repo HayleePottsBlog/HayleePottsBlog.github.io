@@ -4,7 +4,7 @@ title: From “we” to “me”—the power of empowerment
 date: 2018-02-12 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: me-to-we-article.jpg # Add image post (optional)
-tags: [Customers, Connections] # add tag
+tags: [customer connections] # add tag
 ---
 
 We appreciate your feedback. We apologize for the inconvenience. We hope to hear from you soon. “We” probably think we’re giving our best customer service, but the customer of 2017 likely [feels angry or detached](https://relate.zendesk.com/articles/angry-customers-and-what-to-do-about-it/) from us.
